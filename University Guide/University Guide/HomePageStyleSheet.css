@@ -1,0 +1,88 @@
+﻿body {
+    font-family: "Andalus";
+    margin:0;
+    padding:0;
+    text-align: center;
+    background-image: url("bg.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+/*header style*/
+
+.header{
+    margin: 0 auto;
+    text-align: left;
+    width: 1200px;
+}
+
+.menu > ul > li{
+	margin: 0 auto;
+	list-style: none;
+    background:#000000;
+	display: inline-block;
+	float: right;
+	position: relative;
+	font-size: 25px;
+    width:25%;
+    text-align:center;
+    box-shadow: 5px 5px 5px;
+}
+
+.menu > ul > li > a{
+    color:rgb(140,198,255);
+    text-decoration:none;
+	display:inline-block;
+	padding:10px 40px;
+    width:auto;
+}
+
+.menu li:hover, .menu .current{
+    background:#2e2728;
+}
+
+.menu li:hover a, .menu .current a{
+    color:#be5b70;
+}
+
+/*middle style*/
+
+.city-map h1{
+    margin-top:0px;
+}
+
+.city-map{
+    margin: 0 auto;
+    margin-top: 20px;
+    text-align:center;
+    width: 800px;
+    display: inline-block;
+    padding:100px;
+    background-color:white;
+    border:solid 3px;
+    border-radius:15px;
+    box-shadow: 5px 5px 5px;
+    opacity: 0.7;
+}
+
+.city-map bold{
+    font-size: 60px;
+    text-shadow: 20px;
+}
+
+.city-map p{
+    font-size:25px;
+}
+
+/*footer style*/
+
+.footer{
+    width: 1000px;
+    height: 150px;
+    background-color: #000000;
+    border-radius: 15px;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    box-shadow: 5px 5px 5px;
+}

@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("College_Guide")]
+[assembly: AssemblyTitle("University_Guide")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("CtrlSoft")]
-[assembly: AssemblyProduct("College_Guide")]
+[assembly: AssemblyProduct("University_Guide")]
 [assembly: AssemblyCopyright("Copyright © CtrlSoft 2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("76d4198a-215c-4483-a7ac-646e246e4907")]
+[assembly: Guid("14c35971-7a2e-4416-9994-207a4ed6a59f")]
 
 // Version information for an assembly consists of the following four values:
 //

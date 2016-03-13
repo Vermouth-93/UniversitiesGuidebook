@@ -9,12 +9,12 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{76D4198A-215C-4483-A7AC-646E246E4907}</ProjectGuid>
+    <ProjectGuid>{14C35971-7A2E-4416-9994-207A4ED6A59F}</ProjectGuid>
     <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>College_Guide</RootNamespace>
-    <AssemblyName>College Guide</AssemblyName>
+    <RootNamespace>University_Guide</RootNamespace>
+    <AssemblyName>University Guide</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <UseIISExpress>true</UseIISExpress>
     <IISExpressSSLPort />
@@ -75,8 +75,8 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="HtmlPage.html" />
-    <Content Include="StyleSheet.css" />
+    <Content Include="HomePage.html" />
+    <Content Include="HomePageStyleSheet.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -95,9 +95,9 @@
         <WebProjectProperties>
           <UseIIS>True</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
-          <DevelopmentServerPort>3833</DevelopmentServerPort>
+          <DevelopmentServerPort>8159</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>http://localhost:3833/</IISUrl>
+          <IISUrl>http://localhost:8159/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>
