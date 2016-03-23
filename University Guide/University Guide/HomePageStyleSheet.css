@@ -122,3 +122,7 @@ bold{
 .main-city ul li:hover a {
     color: red;
 }
+
+.facInfo{
+    text-align:right;
+}
