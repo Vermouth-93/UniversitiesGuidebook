@@ -1,0 +1,46 @@
+[
+	{
+		"ID" : 1,
+		"University" : "Alexandria",
+		"Faculty" : "Engineering",
+		"Department" : "Computer and Communication",
+		"Phone Number" : 1234567,
+		"Address" : "dummy add",
+		"Email" : "dummy@mail.com",
+		"Admission Conditions" : "Programming and Mathematics ",
+		"Minimum Entry GPA" : 98
+	},
+	{
+		"ID" : 2,
+		"University" : "Alexandria",
+		"Faculty" : "Engineering",
+		"Department" : "Electromechanics",
+		"Phone Number" : 1234567,
+		"Address" : "dummy add",
+		"Email" : "dummy@mail.com",
+		"Admission Conditions" : "Physics and Mathematics",
+		"Minimum Entry GPA" : 100
+	},
+	{
+		"ID" : 3,
+		"University" : "Alexandria",
+		"Faculty" : "Engineering",
+		"Department" : "Construction and Architecture",
+		"Phone Number" : 1234567,
+		"Address" : "dummy add",
+		"Email" : "dummy@mail.com",
+		"Admission Conditions" : "Graph and Mechanics",
+		"Minimum Entry GPA" : 95
+	},
+	{
+		"ID" : 4,
+		"University" : "Alexandria",
+		"Faculty" : "Engineering",
+		"Department" : "Gas and Petrochemicals",
+		"Phone Number" : 1234567,
+		"Address" : "dummy add",
+		"Email" : "dummy@mail.com",
+		"Admission Conditions" : "Chemistry and Physics",
+		"Minimum Entry GPA" : 93
+	}
+]

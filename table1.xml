@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+
+<resultset statement="SELECT * FROM uniguide.uni_table
+LIMIT 0, 1000
+"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+	<row>
+		<field name="ID">1</field>
+		<field name="University">Alexandria</field>
+		<field name="Faculty">Engineering</field>
+		<field name="Department">Computer and Communication</field>
+		<field name="Phone Number">1234567</field>
+		<field name="Address">dummy add</field>
+		<field name="Email">dummy@mail.com</field>
+		<field name="Admission Conditions">Programming and Mathematics </field>
+		<field name="Minimum Entry GPA">98</field>
+	</row>
+
+	<row>
+		<field name="ID">2</field>
+		<field name="University">Alexandria</field>
+		<field name="Faculty">Engineering</field>
+		<field name="Department">Electromechanics</field>
+		<field name="Phone Number">1234567</field>
+		<field name="Address">dummy add</field>
+		<field name="Email">dummy@mail.com</field>
+		<field name="Admission Conditions">Physics and Mathematics</field>
+		<field name="Minimum Entry GPA">100</field>
+	</row>
+
+	<row>
+		<field name="ID">3</field>
+		<field name="University">Alexandria</field>
+		<field name="Faculty">Engineering</field>
+		<field name="Department">Construction and Architecture</field>
+		<field name="Phone Number">1234567</field>
+		<field name="Address">dummy add</field>
+		<field name="Email">dummy@mail.com</field>
+		<field name="Admission Conditions">Graph and Mechanics</field>
+		<field name="Minimum Entry GPA">95</field>
+	</row>
+
+	<row>
+		<field name="ID">4</field>
+		<field name="University">Alexandria</field>
+		<field name="Faculty">Engineering</field>
+		<field name="Department">Gas and Petrochemicals</field>
+		<field name="Phone Number">1234567</field>
+		<field name="Address">dummy add</field>
+		<field name="Email">dummy@mail.com</field>
+		<field name="Admission Conditions">Chemistry and Physics</field>
+		<field name="Minimum Entry GPA">93</field>
+	</row>
+</resultset>

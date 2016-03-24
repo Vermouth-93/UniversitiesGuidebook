@@ -1,0 +1,1 @@
+SELECT * FROM uniguide.uni_table;
